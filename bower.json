@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "version": "0.0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.3.0",
+    "jqurey": "~2.1.4",
+    "icomoon": "~0.0.3"
+  },
+  "devDependencies": {
+    "icomoon": "~0.0.3"
+  }
+}
